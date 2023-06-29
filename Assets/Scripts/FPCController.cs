@@ -18,6 +18,7 @@ public class FPCController : MonoBehaviour
         if (camera == null) {
             camera = Camera.main;
         }
+        
     }
 
     // Update is called once per frame
